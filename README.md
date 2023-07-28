@@ -1,4 +1,4 @@
-- 👋 Hi, My name I’m Lucas Kaique,
+- 👋 Hi, My name is Lucas Kaique,
 - 👀 I’m interested in aprender mais sobre o mundo da programção e poder ajudar na comunidade.
 - 🌱 I’m currently learning, HTML/CSS e javascript.
 - 💞️ I’m looking to collaborate on com os meus conhecimentos e aprendizados.
